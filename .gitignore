@@ -1,0 +1,13 @@
+﻿# Build
+bin/
+obj/
+
+# VS configs
+.vs/
+*.user
+*.suo
+
+# Outros
+*.exe
+*.dll
+*.log
